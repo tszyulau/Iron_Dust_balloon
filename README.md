@@ -1,10 +1,13 @@
 ## From Sky to Sea: How High-Altitude Dust Shapes Ocean Ecosystems
 
-Dust, something we rarely associate it with something that is meaningful in our daily life. But in the atmosphere, mineral dust is a powerful driver of ecological and climate processes—particularly through its role in transporting iron and other trace metals from desert regions to remote parts of the ocean. These particles are not just passengers in the wind; they are critical links between land, air, and sea.
+Dust, something we rarely associate it with something that is meaningful in our daily life. But in the atmosphere, mineral dust is a powerful driver of ecological and climate processes. Particularly through its role in transporting iron and other trace metals from desert regions to remote parts of the ocean. These particles are not just passengers in the wind, they are critical links between land, air, and sea.
 
 
-<img src="assets/NSF_FeDUST.png" height="300" width="auto">
+<img src="NSF_FeDUST.png" height="300" width="auto">
 
+## Scientific Question and Purpose
+
+The central scientific question driving this project is: How do vertical chemical transformations of atmospheric dust influence the solubility of iron and its eventual bioavailability to phytoplankton in remote ocean regions? Despite growing recognition of dust’s role in ocean fertilization and climate regulation, a lack of vertical observational data limits our understanding of the processes that transform insoluble iron into its bioavailable form during atmospheric transport. This project proposes a high-altitude sampling campaign to directly investigate those chemical changes and close the existing knowledge gap.
 
 ## Why Atmospheric Dust Matters
 
