@@ -1,9 +1,6 @@
----
-layout: default
-title: From Sky to Sea, How High-Altitude Dust Shapes Ocean Ecosystems
----
+# From Sky to Sea: How High-Altitude Dust Shapes Ocean Ecosystems
 
-<img src="./NSF_FeDUST.png" alt="Dust-Ocean System Illustration" style="height:300px;">
+<img src="NSF_FeDUST.png" height="300">
 
 
 ## From Sky to Sea: How High-Altitude Dust Shapes Ocean Ecosystems
