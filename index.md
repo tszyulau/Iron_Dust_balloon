@@ -13,7 +13,7 @@ The central scientific question driving this project is: How do vertical chemica
 
 ## Why Atmospheric Dust Matters
 
-Atmospheric dust, lifted primarily from deserts like the Sahara and Gobi, travels thousands of kilometers through the troposphere, eventually settling on land or ocean surfaces. During this journey, dust carries trace elements—especially iron—essential to marine phytoplankton. These microscopic plants form the base of the marine food web and play a significant role in carbon dioxide uptake through photosynthesis.
+Atmospheric dust, lifted primarily from deserts like the Sahara and Gobi, travels thousands of kilometers through the troposphere, eventually settling on land or ocean surfaces. During this journey, dust carries trace elements that are essential to marine phytoplankton, such as iron. Iron is a key component of several enzymes in photosynthesis, which convert light energy into chemical energy. Phytoplankton use iron to synthesise chlorophyll (the pigment that captures light energy) and to build proteins that transport electrons during photosynthesis. These microscopic plants form the basis of the marine food chain and play an important role in absorbing carbon dioxide through photosynthesis. Iron also plays a role in other important cell functions such as respiration, carbon fixation and nitrogen fixation.
 
 In ocean regions such as the Southern Ocean and the North Pacific, where macronutrients are abundant but iron is scarce, dust acts as a natural fertilizer. Jickells et al. (2005) documented how dust delivery to the open ocean significantly influences phytoplankton productivity and, by extension, global carbon cycles.
 
